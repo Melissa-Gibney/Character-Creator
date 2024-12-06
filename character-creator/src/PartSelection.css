@@ -1,0 +1,33 @@
+.PartSelection {
+    display: flex;
+    flex-direction: column;
+    width: 32vw;
+    height: 88.5vh;
+    min-width: min-content;
+    margin-left: 1vw;
+    margin-top: 0.5vh;
+    margin-bottom: 1vh;
+    margin-right: 0.5vh;
+    background-color: whitesmoke;
+    justify-content: top;
+    text-align: center;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.Header {
+    background-color: rgb(255, 210, 60);;
+    border-radius: 10px;
+}
+
+.DropdownGroup {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    overflow: scroll;
+    border-color: hotpink;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+}

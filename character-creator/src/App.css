@@ -1,0 +1,23 @@
+.App {
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: top;
+  background-color: white;
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+  min-width: fit-content;
+  min-height: fit-content;
+}
+
+.RowDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.ColDiv {
+  display: flex;
+  flex-direction: column;
+}

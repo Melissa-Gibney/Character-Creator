@@ -1,0 +1,30 @@
+.PageHeader {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: center;
+    background-color: white;
+    min-height: fit-content;
+    width: 98vw;
+    height: 8.5vh;
+    margin-left: 1vw;
+    margin-right: 1vw;
+    margin-top: 1vh;
+    margin-bottom: 0.5vh;
+}
+
+.OptionButton {
+    border-radius: 10%;
+    border: none;
+    background-color: rgb(255, 127, 170);
+    box-shadow: 0px 4px 4px rgb(129, 48, 75);
+}
+
+.OptionButton:hover {
+    background-color: rgb(255, 162, 193);
+}
+
+.OptionButton:active {
+    background-color: rgb(229, 114, 153);
+    box-shadow: 0px 2px 2px rgb(185, 71, 109);
+}

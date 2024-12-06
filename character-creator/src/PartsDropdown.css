@@ -1,0 +1,25 @@
+.PartsDropdown {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 10px;
+
+}
+
+.button {
+    background-color: rgb(255, 127, 170);
+    display: flex;
+    justify-content: space-between;
+    border: none;
+    text-align: left;
+    border-radius: 10px;
+    box-shadow: 0px 4px 4px rgb(129, 48, 75);
+}
+
+.button:hover {
+    background-color: rgb(255, 162, 193);
+}
+
+.button:active {
+    background-color: rgb(229, 114, 153);
+    box-shadow: 0px 2px 2px rgb(185, 71, 109);
+}
