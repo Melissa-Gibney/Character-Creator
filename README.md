@@ -1,4 +1,4 @@
-# SSUI-React-Final-Project
+# Character-Creator
  
 This is a character creator made using React, Javascript, JSX, and CSS.  You may need to have React installed on your computer before attempting to run this, and you will need to have Node JS installed to use the npm command.
 
